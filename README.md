@@ -44,6 +44,12 @@ Este projeto é uma interface web para exibição, busca, adição, edição e r
 ---
 
 ##  Captura de Tela
-<img width="1093" height="307" alt="4" src="https://github.com/user-attachments/assets/1628a57f-abaa-4a35-8c8d-952927f260f3" /><br>
-<img width="1071" height="212" alt="5" src="https://github.com/user-attachments/assets/4107338c-6208-4ba1-8a37-3b45d71b1d07" /><br>
-<img width="392" height="215" alt="3" src="https://github.com/user-attachments/assets/c0e2a983-5ae7-4a7f-a9c8-cf5824f0bfce" />
+<img width="475" height="211" alt="4" src="https://github.com/user-attachments/assets/47fd5acb-5c59-4f0e-a6e6-3543b6bc39c0" />
+<br>
+<img width="348" height="102" alt="5" src="https://github.com/user-attachments/assets/dbbd38b4-c332-4687-93a8-6dac90555f29" />
+<br>
+<img width="392" height="215" alt="3" src="https://github.com/user-attachments/assets/f105b7d8-c279-4c4f-9b5f-4eccf1e54e63" />
+<br>
+<img width="1098" height="376" alt="6" src="https://github.com/user-attachments/assets/41914f26-442a-4a82-bab3-d7fef341dbe1" />
+
+
